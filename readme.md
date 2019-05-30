@@ -2,6 +2,7 @@
 
 ```
 //Code HERE!
+alert('danger, run away!');
 ```
 
 POOPLY
